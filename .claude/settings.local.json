@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python -c \":*)",
-      "Bash(curl -s http://localhost:8501)",
-      "Bash(python:*)"
-    ]
-  }
-}
